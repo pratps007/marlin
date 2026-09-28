@@ -1,0 +1,18 @@
+[
+  "tests/test_ais.py::test_ais_anomaly_audit",
+  "tests/test_ais.py::test_get_vessels",
+  "tests/test_ais.py::test_haversine_distance",
+  "tests/test_ais.py::test_vessel_track",
+  "tests/test_counterfactual.py::test_counterfactual_api",
+  "tests/test_counterfactual.py::test_counterfactual_service",
+  "tests/test_detection.py::test_analyse_slick",
+  "tests/test_detection.py::test_run_detection",
+  "tests/test_drift.py::test_backward_drift_api",
+  "tests/test_drift.py::test_backward_hindcast_service",
+  "tests/test_drift.py::test_forward_drift_api",
+  "tests/test_evidence_reports.py::test_evidence_fusion_api",
+  "tests/test_evidence_reports.py::test_report_generation_api",
+  "tests/test_system.py::test_root",
+  "tests/test_system.py::test_system_health",
+  "tests/test_system.py::test_system_status"
+]
